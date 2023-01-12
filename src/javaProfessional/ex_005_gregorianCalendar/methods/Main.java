@@ -41,6 +41,7 @@ public class Main {
         System.out.println(gc.get(Calendar.DAY_OF_MONTH));
         System.out.println(gc.get(Calendar.MONTH));
         System.out.println(gc.get(Calendar.YEAR));
-        System.out.println("\nhi");
+        System.out.println(gc.get(Calendar.DAY_OF_MONTH));
+
     }
 }
